@@ -1,7 +1,4 @@
-# concept-2-rower
-Experiments, hacks and upgrades for the Concept 2 Rower.
-
-# Contents
+# Concept 2 Rower Experiments, hacks and upgrades
 
 The project below are my experiments and upgrades to my personal Concept 2 Rower, if you want to perform these same upgrades
 you'll need access to a 3D printer and some basic tools such as a screwdriver or an adjustable wrench to remove some of the 
