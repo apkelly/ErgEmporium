@@ -20,8 +20,12 @@ Concept 2 rowing chain, and possible, and may also need increased strength. If y
 Note, that with this project the PM5 is removed completly. It can still be attached, but if won't be supported in any way. See the
 next project for a mounting solution that lets you continue to use the PM5 with the VESA mounted monitor.
 
-## PM5 mount compatible with VESA mount project v1
+![VESA mount and monitor arm](vesa mount v1/images/arm.jpg)
 
+![24" LG monitor in use](vesa mount v1/images/monitor.jpg)
+
+## PM5 mount compatible with VESA mount project v1
+Details coming soon.
 
 # Community
 You're free to use the files in this repository for personal use, if you make changes or improvements that you think would benefit the community please
@@ -32,6 +36,5 @@ You're free to use the files in this repository for personal use, commercial use
 
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 
-# Purchase
-If you don't have access to a 3D printer, but would like to install a monitor on your Concept 2 Rower, please check out my Etsy store
-https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower where I sell pre-printed versions.
+# ErgEmprorium Etsy store
+If you don't have access to a 3D printer, but would like to install a monitor on your Concept 2 Rower, please check out my  [Etsy store](https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower) where I sell and ship pre-printed versions.
