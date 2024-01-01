@@ -20,9 +20,9 @@ Concept 2 rowing chain, and possible, and may also need increased strength. If y
 Note, that with this project the PM5 is removed completly. It can still be attached, but if won't be supported in any way. See the
 next project for a mounting solution that lets you continue to use the PM5 with the VESA mounted monitor.
 
-![VESA mount and monitor arm](vesa mount v1/images/arm.jpg)
+![VESA mount and monitor arm](/vesa%20mount%20v1/images/arm.jpg)
 
-![24" LG monitor in use](vesa mount v1/images/monitor.jpg)
+![24" LG monitor in use](/vesa%20mount%20v1/images/monitor.jpg)
 
 ## PM5 mount compatible with VESA mount project v1
 Details coming soon.
