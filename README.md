@@ -12,9 +12,17 @@ Where additional parts are needed I'll aim to include sizes and costs etc.
 1. [VESA mount for computer monitor v1](/vesa%20mount%20v1)
 1. [PM5 mount low mount v1](/pm5%20low%20mount%20v1)
 
+# Risk
+I've made every attempt to make sure these components are strong, safe, reversible etc. I provide no warranty though, if you decide to attempt to install these you do so at your own risk.
+I won't be held liable for any breakages, scratches, injuries etc from following these instructions. 
+
+I wish you well, and I hope you find these enhancements useful, I've tested everything on my own personal Concept 2 Model D rower. If you're not comfortable taking apart electronics, or using an adjustable wrench and screwdriver, then please ask for assistance, or reconsider you usage of these files.
+
 # Community
 You're free to use the files in this repository for personal use, if you make changes or improvements that you think would benefit the community please
 let me know and I can upload the improved versions here (or link to your repository if you prefer).
+
+If you do use these files please do share your results with the community (and me), I'd love to see these being used and enjoyed by everyone.
 
 # License
 You're free to use the files in this repository for personal use, commercial use is prohibited.
