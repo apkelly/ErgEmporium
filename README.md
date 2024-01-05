@@ -10,7 +10,7 @@ and you rower returned to its original factory condition.
 Where additional parts are needed I'll aim to include sizes and costs etc.
 
 1. [VESA mount for computer monitor v1](/vesa%20mount%20v1)
-1. [PM5 mount low mount v1](/vesa%20mount%20v1)
+1. [PM5 mount low mount v1](/pm5%20low%20mount%20v1)
 
 # Community
 You're free to use the files in this repository for personal use, if you make changes or improvements that you think would benefit the community please
