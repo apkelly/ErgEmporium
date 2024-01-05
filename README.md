@@ -14,9 +14,9 @@ Where additional parts are needed I'll aim to include sizes and costs etc.
 
 # Risk
 I've made every attempt to make sure these components are strong, safe, reversible etc. I provide no warranty though, if you decide to attempt to install these you do so at your own risk.
-I won't be held liable for any breakages, scratches, injuries etc from following these instructions. 
+I won't be held liable for any breakages, scratches or damage to your Concept 2 rower, PM5 monitor, your computer monitor/TV, or yourself from following these instructions. 
 
-I wish you well, and I hope you find these enhancements useful, I've tested everything on my own personal Concept 2 Model D rower. If you're not comfortable taking apart electronics, or using an adjustable wrench and screwdriver, then please ask for assistance, or reconsider you usage of these files.
+I wish you well, and I hope you find these enhancements useful, I've tested everything on my own personal Concept 2 Model D rower. If you're not comfortable taking apart electronics, or using an adjustable wrench and screwdriver, then please ask for assistance or reconsider your usage of these files.
 
 # Community
 You're free to use the files in this repository for personal use, if you make changes or improvements that you think would benefit the community please
