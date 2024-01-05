@@ -10,7 +10,7 @@ and you rower returned to its original factory condition.
 Where additional parts are needed I'll aim to include sizes and costs etc.
 
 1. [VESA mount for computer monitor v1](/vesa%20mount%20v1)
-1. [PM5 mount low mount v1](/pm5%20low%20mount%20v1)
+1. [PM5 low mount v1](/pm5%20low%20mount%20v1)
 
 # Risk
 I've made every attempt to make sure these components are strong, safe, reversible etc. I provide no warranty though, if you decide to attempt to install these you do so at your own risk.
@@ -30,4 +30,4 @@ You're free to use the files in this repository for personal use, commercial use
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 
 # ErgEmprorium Etsy store
-If you don't have access to a 3D printer but would like to install these enhancements on your own Concept 2 Rower, please check out my [Etsy store](https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower) where I sell and ship pre-printed versions. If you use the promo code "GITHUB20" you can will get 20% off for a limited time.
+If you don't have access to a 3D printer but would like to install these enhancements on your own Concept 2 Rower, please check out my [Etsy store](https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower) where I sell and ship pre-printed versions. If you use the promo code "GITHUB20" you will get 20% off for a limited time.
