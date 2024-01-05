@@ -30,4 +30,4 @@ You're free to use the files in this repository for personal use, commercial use
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 
 # ErgEmprorium Etsy store
-If you don't have access to a 3D printer but would like to install these enhancements on your own Concept 2 Rower, please check out my [Etsy store](https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower) where I sell and ship pre-printed versions.
+If you don't have access to a 3D printer but would like to install these enhancements on your own Concept 2 Rower, please check out my [Etsy store](https://www.etsy.com/au/listing/1634016026/vesa-monitor-arm-for-concept-2-rower) where I sell and ship pre-printed versions. If you use the promo code "GITHUB20" you can will get 20% off for a limited time.
