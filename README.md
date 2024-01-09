@@ -11,6 +11,7 @@ Where additional parts are needed I'll aim to include sizes and costs etc.
 
 1. [VESA mount for computer monitor v1](/vesa%20mount%20v1)
 1. [PM5 low mount v1](/pm5%20low%20mount%20v1)
+1. [Chain Lubricator Tool v1](/chain%20lube%20tool%20v1)
 
 # Risk
 I've made every attempt to make sure these components are strong, safe, reversible etc. I provide no warranty though, if you decide to attempt to install these you do so at your own risk.

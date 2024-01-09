@@ -1,6 +1,6 @@
 # VESA mount for computer monitor v1
 
-This project replaces the PM5 mounting arm with an arm that allows you to mount a computer monitor (or small TV) using a standard 100x100mm VESA mount.
+This project replaces the PM5 mounting arm with an arm that allows you to mount a computer monitor (or small TV) using a standard 75x75mm or 100x100mm VESA mount.
 With this replacement you can then use any input source your monitor/TV supports e.g. Chromecast via HDMI, to watch the content you want
 while doing your workout.
 
