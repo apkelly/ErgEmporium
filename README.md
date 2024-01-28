@@ -4,6 +4,8 @@ The projects below are my experiments and upgrades to my personal Concept 2 Rowe
 you'll need access to a 3D printer and some basic tools such as a screwdriver or an adjustable wrench to remove some of the 
 bolts on the rower.
 
+![all prints - green](images/all-prints-green.jpg)
+
 Unless noted, all these sub-projects are non-destructive to your Concept 2 Rower, any installation if done carefully can be reversed
 and you rower returned to its original factory condition.
 
@@ -33,4 +35,4 @@ https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 # ErgEmprorium Etsy store
 If you don't have access to a 3D printer but would like to install these enhancements on your own Concept 2 Rower, please check out my [Etsy store](https://ergemporium.etsy.com) where I sell and ship pre-printed versions.
 
-If you do have a 3D printer and would still like to support my open source efforts, there is a digital "Thank you" card you can purchase on my store which directly goes to helping me to work on project like these.
+If you do have a 3D printer and would still like to support my open source efforts, there is a digital "Thank you" card you can purchase on my store which directly goes to helping me work on projects like these.
