@@ -28,4 +28,4 @@ Once the PM5 is secured to the side of your rower you can re-attach the sensor c
 
 With this solution the battery pack supplied with the PM5 is removed, this means you'll need to connect a USB-B cable to the back of the PM5 for power. USB-B is most commonly used with printers, so you're likely to have one of these lying around the house. If you remove power then you'll need to enter the date/time each time you reconnect.
 
-My v2 design for this mount (coming soon!) includes a rechargable battery component that is smaller and lighter than the 2xLR20 batteries used, and means the date/time won't be lossed between usages, and also means you can run the rower without the need for a USB-B cable.
+My [PM5 low mount v2](/pm5%20low%20mount%20v2) includes a rechargable battery component that is smaller and lighter than the 2xLR20 batteries used, and means the date/time won't be lost between usages, and also means you can run the rower without the need for a USB-B cable.
